@@ -12,4 +12,6 @@ configuration:
       type: array
     skip_on_fail:
       type: boolean
+    docker_image:
+      type: string
   additionalProperties: false
